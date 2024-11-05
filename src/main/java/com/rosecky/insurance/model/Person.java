@@ -1,7 +1,7 @@
 package com.rosecky.insurance.model;
 
-import jakarta.validation.constraints.NotNull;
 import lombok.Getter;
+import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 
 import java.util.HashSet;
@@ -11,8 +11,7 @@ import java.util.Set;
 @RequiredArgsConstructor
 public class Person {
     private final int id;
-
-    @NotNull
+    @NonNull
     private final String name;
     private final Set<Insurance> insurances = new HashSet<>();
 
