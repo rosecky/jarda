@@ -1,4 +1,4 @@
-package com.rosecky.insurance.model;
+package com.vybostok.insurance.model;
 
 import jakarta.validation.constraints.NotNull;
 import lombok.Getter;

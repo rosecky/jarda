@@ -1,6 +1,6 @@
-package com.rosecky.insurance.repository;
+package com.vybostok.insurance.repository;
 
-import com.rosecky.insurance.model.Person;
+import com.vybostok.insurance.model.Person;
 
 import java.util.List;
 
