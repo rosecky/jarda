@@ -1,7 +1,7 @@
-import com.rosecky.insurance.model.Insurance;
-import com.rosecky.insurance.model.Person;
-import com.rosecky.insurance.repository.PersonRepository;
-import com.rosecky.insurance.repositoryimplementation.InMemoryPersonRepository;
+import com.vybostok.insurance.model.Insurance;
+import com.vybostok.insurance.model.Person;
+import com.vybostok.insurance.repository.PersonRepository;
+import com.vybostok.insurance.repositoryimplementation.InMemoryPersonRepository;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;

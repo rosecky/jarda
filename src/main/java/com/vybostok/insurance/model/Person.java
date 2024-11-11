@@ -1,4 +1,4 @@
-package com.rosecky.insurance.model;
+package com.vybostok.insurance.model;
 
 import lombok.Getter;
 import lombok.NonNull;

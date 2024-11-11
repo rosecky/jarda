@@ -1,7 +1,7 @@
-package com.rosecky.insurance.repositoryimplementation;
+package com.vybostok.insurance.repositoryimplementation;
 
-import com.rosecky.insurance.model.Person;
-import com.rosecky.insurance.repository.PersonRepository;
+import com.vybostok.insurance.model.Person;
+import com.vybostok.insurance.repository.PersonRepository;
 
 import java.util.HashSet;
 import java.util.List;
