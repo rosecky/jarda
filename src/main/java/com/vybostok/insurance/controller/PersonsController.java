@@ -1,8 +1,8 @@
-package com.rosecky.insurance.controller;
+package com.vybostok.insurance.controller;
 
-import com.rosecky.insurance.model.Person;
-import com.rosecky.insurance.repository.PersonRepository;
-import com.rosecky.insurance.repositoryimplementation.InMemoryPersonRepository;
+import com.vybostok.insurance.model.Person;
+import com.vybostok.insurance.repository.PersonRepository;
+import com.vybostok.insurance.repositoryimplementation.InMemoryPersonRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;

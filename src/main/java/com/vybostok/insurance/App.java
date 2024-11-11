@@ -1,4 +1,4 @@
-package com.rosecky.insurance;
+package com.vybostok.insurance;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
